@@ -13,11 +13,17 @@ Provide a clear, non-technical explanation suitable for business stakeholders
 
 
 🚀 Key Features
+
 ✔ End-to-End Machine Learning Pipeline
+
 Data cleaning & preprocessing
+
 One-hot encoding for categorical variables
+
 XGBoost model training
+
 AUC + F1-score evaluation
+
 ✔ Explainable AI (XAI) with SHAP
 Global SHAP summary plot showing overall feature importance
 Local SHAP force plots visualizing individual loan decisions
