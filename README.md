@@ -24,21 +24,39 @@ XGBoost model training
 
 AUC + F1-score evaluation
 
+
 ✔ Explainable AI (XAI) with SHAP
+
 Global SHAP summary plot showing overall feature importance
+
 Local SHAP force plots visualizing individual loan decisions
+
 Full explanation for the high-risk (denial) case
+
+
 ✔ Business-Level Interpretability
+
 Narrative interpretation of how factors such as:
+
 credit score
+
 income
+
 debt-to-income ratio delinquency history
+
 impact approval decisions.
 
+
 🛠 Technologies Used
-Python
-XGBoost
-SHAP
-Scikit-learn
-Matplotlib
-Pandas / NumPy
+
+✔Python
+
+✔XGBoost
+
+✔SHAP
+
+✔Scikit-learn
+
+✔Matplotlib
+
+✔Pandas / NumPy
