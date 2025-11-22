@@ -28,3 +28,11 @@ credit score
 income
 debt-to-income ratio delinquency history
 impact approval decisions.
+
+🛠 Technologies Used
+Python
+XGBoost
+SHAP
+Scikit-learn
+Matplotlib
+Pandas / NumPy
