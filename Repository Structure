@@ -1,0 +1,18 @@
+/data
+    credit_risk_dataset.csv
+
+/notebooks
+    shap_credit_risk_analysis.ipynb
+
+/plots
+    shap_summary_plot.png
+    forceplot_high_approval.png
+    forceplot_high_denial.png
+    forceplot_borderline.png
+
+src/
+    model_pipeline.py
+    shap_explanations.py
+
+report/
+    credit_risk_project_report.pdf
