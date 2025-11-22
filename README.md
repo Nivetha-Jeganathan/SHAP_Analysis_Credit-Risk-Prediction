@@ -24,7 +24,5 @@ Full explanation for the high-risk (denial) case
 Narrative interpretation of how factors such as:
 credit score
 income
-debt-to-income ratio
-
-delinquency history
+debt-to-income ratio delinquency history
 impact approval decisions.
